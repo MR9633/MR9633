@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Roshan
 - 👀 I’m interested in Data Analytics                         
-- 🌱 I’m currently learning python for for datascience
+- 🌱 I’m currently learning python for datascience
 - 💞️ I’m looking to collaborate on data analytic programmes
 - 📫 How to reach me mdroshan9633@gmail.com
 - 😄 Pronouns: he/him
